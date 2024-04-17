@@ -67,3 +67,14 @@ public class Trie {
     }
 }
 
+//                root
+//                / \
+//                a   NULL
+//                /
+//                p
+//                / \
+//                p   NULL
+//                /
+//                l
+//                /
+//                e
